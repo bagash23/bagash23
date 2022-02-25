@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning React Native & Kotlin
+- 🌱 I’m currently learning React Native, Kotlin & React JS
 - 👯 I’m looking to collaborate on React Native & Javascript
 - 🤔 I’m looking for help with Stackoverflow
 - 💬 Ask me about React Native & Javascript
